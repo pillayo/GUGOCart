@@ -1,0 +1,8 @@
+{
+  "name": "GUGOCart",
+  "app_id": "2ded2e60",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
